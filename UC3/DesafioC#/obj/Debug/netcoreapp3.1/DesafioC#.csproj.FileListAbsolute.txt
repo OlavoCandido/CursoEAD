@@ -1,0 +1,13 @@
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#.deps.json
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#.runtimeconfig.json
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#.runtimeconfig.dev.json
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#.dll
+/home/olavo/Documentos/Curso/DesafioC#/bin/Debug/netcoreapp3.1/DesafioC#.pdb
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.csprojAssemblyReference.cache
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.AssemblyInfoInputs.cache
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.AssemblyInfo.cs
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.csproj.CoreCompileInputs.cache
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.dll
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.pdb
+/home/olavo/Documentos/Curso/DesafioC#/obj/Debug/netcoreapp3.1/DesafioC#.genruntimeconfig.cache

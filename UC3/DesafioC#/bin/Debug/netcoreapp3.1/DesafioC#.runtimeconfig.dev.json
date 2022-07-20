@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/olavo/.dotnet/store/|arch|/|tfm|",
+      "/home/olavo/.nuget/packages"
+    ]
+  }
+}

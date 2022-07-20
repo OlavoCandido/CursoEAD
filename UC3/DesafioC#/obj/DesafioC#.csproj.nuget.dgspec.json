@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/olavo/Documentos/Curso/DesafioC#/DesafioC#.csproj": {}
+  },
+  "projects": {
+    "/home/olavo/Documentos/Curso/DesafioC#/DesafioC#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/olavo/Documentos/Curso/DesafioC#/DesafioC#.csproj",
+        "projectName": "DesafioC#",
+        "projectPath": "/home/olavo/Documentos/Curso/DesafioC#/DesafioC#.csproj",
+        "packagesPath": "/home/olavo/.nuget/packages/",
+        "outputPath": "/home/olavo/Documentos/Curso/DesafioC#/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/olavo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/olavo/dotnet/sdk/3.1.421/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
