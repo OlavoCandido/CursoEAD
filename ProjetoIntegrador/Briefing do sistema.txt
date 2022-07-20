@@ -1,0 +1,145 @@
+﻿> MODELO DE BRIEFING
+Cliente: Gladis Mari Fernandes Mazuco -  Produto:Feri Móvel
+Data: 15/06/2022  Responsável: Olavo Candido
+> INFORMAÇÕES DO CLIENTE
+Histórico do Cliente:
+	Gladis Fernandes, uma mulher que sonha em ter seu próprio empreendimento, e hoje almeja ter um domicílio para alugar e gerar uma renda extra para ela. Ainda não possui o imovel, mas já deseja ver o site com algumas fotos genéricas para depois só substituir pelas fotos do próprio imovel  
+	
+
+Nome do produto e/ou serviço:
+	ferimovel.com.br
+	
+
+Qual é o segmento de atuação da empresa?
+	Locação de Imovél 
+	
+
+Pontos positivos e negativos:
+	Um website irá aumentar a forma de promover o imovel e ficar mais visivel para ser visível 
+
+
+	
+
+Diferenciais:
+	Um website simples e objetivos, com fotos do local, e formas de contato para reserva
+
+
+	
+
+> PÚBLICO-ALVO DO CLIENTE
+Perfil do público-alvo:
+	Famílias que desejam um período de tranquilidade, dia diferente, ou curtir as férias em um local diferente.
+
+
+
+
+	
+
+Hábitos e comportamento do público-alvo:
+	Passear, se aventurar e conhecer lugares novos.
+
+
+
+
+	
+
+
+
+> CONCORRÊNCIA
+Principais concorrentes:
+	airbnb.com.br
+booking.com.br
+	
+
+Preços, distribuição, promoções e informações úteis:
+	Esses websites atendem todo o território nacional, e um leque maior de imoveis, porem os proprietários do website não são os proprietarios do imovel, o que pode ocasionar um certo desconforto para quem for alugar.
+	
+
+Pontos positivos e negativos:
+	Várias opções para locar;
+Preços bem competitivos.
+
+
+Sites com várias poluições visuais e não objetivos;
+Website não pode garantir a integridade do local, pois não são proprietários.
+
+
+	
+
+> O SITE
+Qual tipo de projeto deseja?
+	* Site institucional
+* Loja virtual (e-commerce)
+	
+
+Objetivos do site:
+	Promover um local para se hospedar e aproveitar a localização do local.
+	
+
+Conceito a ser trabalhado:
+	
+
+	
+
+Quais páginas/funcionalidades o site deverá ter?
+	* Home (página inicial)
+* Institucional (“quem somos”/”missão”/”visão”)
+* Produtos
+* Serviços
+* Notícias/artigos
+* Portfólio/projetos
+* Parceiros/clientes
+* Galeria de fotografias
+* Galeria de vídeos
+* Trabalhe conosco
+* Contato (“fale conosco”)
+* E-commerce/ferramenta de venda on-line
+* Outros: ________________________________________________________________________
+	
+
+O site terá versões em outros idiomas?
+	* Português
+* Inglês
+* Espanhol
+* Outros:______________________________________________________
+	
+
+Sugestões (utilizar as cores e o estilo):
+	
+
+
+
+	
+
+Tecnologia desejada:
+	* Estática (linguagem HTML sem base de dados nem animações)
+* Animada (linguagem HTML com animações)
+* Dinâmica (linguagens HTML e PHP e banco de dados)
+* Dinâmica animada (linguagens HTML com animações, PHP e banco de dados)
+	
+
+Como deseja promover/divulgar o site após a publicação?
+	Redes sociais. 
+
+
+	
+
+Restrições:
+	
+
+
+
+	        
+Referências de sites interessantes (de outras empresas):
+	
+
+
+
+	
+
+Verba disponível:
+	
+
+	
+
+Prazos para a realização do trabalho:
