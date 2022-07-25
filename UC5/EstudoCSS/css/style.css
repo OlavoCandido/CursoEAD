@@ -1,0 +1,38 @@
+p {
+    color: blue;
+    font: bold 50px arial;
+}
+
+.paragrafo{
+    color: goldenrod;
+    font: italic 32px times;
+}
+
+.centro{
+    text-align: center;
+}
+
+#unico{
+    text-decoration: underline;
+    font: 22px arial bold;
+    color: brown;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.divisores {
+    width: 100%;
+    height: 50%;
+    font: 46px arial bold;
+}
+
+#div1 {
+    background-color: blue;
+}
+
+#div2 {
+    background-color: blueviolet;
+}
