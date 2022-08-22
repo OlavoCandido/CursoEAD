@@ -28,26 +28,16 @@ namespace atividade2.Controllers
             return View();
         }
 
-        public IActionResult Pedido()
-        {
-            return View();
-        }
-
-        public IActionResult Atual()
-        {
-            return View();
-        }
-
-        public IActionResult Confirmacao()
+        public IActionResult Cadastro()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Pedido(ItemPedido item)
+        public IActionResult Cadastro(ItemPedido novoPedido)
         {
-            Pedido.adicionar(item);
-            return View("Confirmacao");
+            Dados.PedidoAtual.adicionar(novoPedido);
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
