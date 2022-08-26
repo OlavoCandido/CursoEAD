@@ -1,0 +1,11 @@
+@model List<ItemPedido>
+
+{
+    ViewData["Title"] = "Lista de Pedido";
+}
+
+@foreach (ItemPedido pedidoAtual in Model){
+    <p>@pedidoAtual.desc </p>
+    <p>@pedidoAtual.valor </p>
+    <p>@pedidoAtual.quant </p>
+}

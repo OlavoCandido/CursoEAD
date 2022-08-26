@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olavo\\Documents\\GitHub\\CursoEAD\\UC5\\atividade2\\atividade2.csproj": {}
+    "/home/olavo/Documentos/CursoEAD/UC5/atividade2/atividade2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olavo\\Documents\\GitHub\\CursoEAD\\UC5\\atividade2\\atividade2.csproj": {
+    "/home/olavo/Documentos/CursoEAD/UC5/atividade2/atividade2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olavo\\Documents\\GitHub\\CursoEAD\\UC5\\atividade2\\atividade2.csproj",
+        "projectUniqueName": "/home/olavo/Documentos/CursoEAD/UC5/atividade2/atividade2.csproj",
         "projectName": "atividade2",
-        "projectPath": "C:\\Users\\Olavo\\Documents\\GitHub\\CursoEAD\\UC5\\atividade2\\atividade2.csproj",
-        "packagesPath": "C:\\Users\\Olavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olavo\\Documents\\GitHub\\CursoEAD\\UC5\\atividade2\\obj\\",
+        "projectPath": "/home/olavo/Documentos/CursoEAD/UC5/atividade2/atividade2.csproj",
+        "packagesPath": "/home/olavo/.nuget/packages/",
+        "outputPath": "/home/olavo/Documentos/CursoEAD/UC5/atividade2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Olavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/olavo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/olavo/dotnet/sdk/3.1.421/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -37,6 +37,7 @@ namespace atividade2.Controllers
         public IActionResult Cadastro(ItemPedido novoPedido)
         {
             Dados.PedidoAtual.adicionar(novoPedido);
+            ViewBag.Mensagem = "Cadastro com sucesso!";
             return View();
         }
 
